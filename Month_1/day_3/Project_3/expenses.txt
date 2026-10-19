@@ -2,3 +2,5 @@ Food,15.50
 Gas,40.00
 Coffee,6.25
 Game,25.00
+cycle,60
+AI agent ,2
