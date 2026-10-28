@@ -1,3 +1,36 @@
+##update 
+
+## 📌 Project Status: Temporarily Paused
+
+**90-Day AI Engineering Challenge**
+
+I'm temporarily pausing my 90-Day AI Engineering Challenge to focus on my university coursework and upcoming exams.
+
+Balancing Computer Science studies, work, and personal projects has taught me that meaningful progress requires more than just consistency. It also requires knowing when to prioritize.
+
+While I initially committed to completing this challenge within 90 days, I've realized that **understanding concepts deeply and building practical skills matters more than meeting an arbitrary deadline.**
+
+### What's Next?
+
+Although the challenge is paused, my AI Engineering journey continues.
+
+- 📚 Continuing to develop my AI/ML knowledge through structured learning.
+- 💻 Improving my Python and problem-solving skills.
+- 🛠️ Gradually developing my Hunter System project.
+- 🎯 Preparing for software engineering and AI/ML internship opportunities.
+
+I'll resume the challenge when my academic schedule allows me to give it the attention it deserves.
+
+**The goal hasn't changed. Only the timeline has.**
+
+*Status: On Hold — To Be Continued 🚀*
+
+
+
+
+
+
+
 # 90-Day AI Engineer Challenge
 
 A 90-day hands-on learning challenge focused on becoming job-ready for entry-level **AI/ML Engineering** roles.
